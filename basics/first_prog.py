@@ -1,4 +1,4 @@
 name = input('Give your name: ')
-print('')
+print()
 print(f'your name is {name}')
  
