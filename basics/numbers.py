@@ -16,3 +16,7 @@
 # print(5 % 3)
 print(round(2.5))
 print(abs(-30))
+
+## operator precedence. 
+
+# (), **, /, *, +, - 
